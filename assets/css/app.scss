@@ -2,8 +2,6 @@
 # Transform Sass into css
 ---
 @import "materialize";
-@import "fontawesome";
-@import "pygments";
 
 body {
   display: flex;
@@ -82,7 +80,7 @@ article {
           font-weight: 200;
       }
       li {
-        list-style-type: disc;    
+        list-style-type: disc;
       }
       &.on-index {
         padding:0;
