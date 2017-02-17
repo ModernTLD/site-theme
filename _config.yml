@@ -1,34 +1,34 @@
 # Site settings
-title: Jekyll-materialize
+title: ModernTLD
+site: Theme
 description: > # this means to ignore newlines until "baseurl:"
     Write an awesome description for your new site here. You can edit this
     line in _config.yml. It will appear in your document head meta (for
     Google search results) and in your feed.xml site description.
-url: "http://yourdomain.com"
 baseurl: ""
-logo: jekyll-<b>materialize</b>
 paginate: 5
 paginate_path: "/page:num/"
 owner:
     email: ichihara.rifa@gmail.com
     facebook:
-        show: true
+        show: false
         name: "Ichihara Rifa"
         url: "https://fb.me/nasya.aidan"
     github:
         show: true
-        username: "riefachan"
+        username: "ModernTLD"
     twitter:
-        show: false
-        username: ""
+        show: true
+        username: "ModernTLD"
     disqus:
         show: true
-        username: "ichihararifa"
+        username: "jonaharagon"
 sass:
     sass_dir: _sass
     style: compressed
-permalink: "/article/:title"
-markdown: redcarpet
-highlighter: pygments
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
 gems:
     - jekyll-feed
+    - jekyll-paginate
