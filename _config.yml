@@ -9,7 +9,7 @@ baseurl: ""
 paginate: 5
 paginate_path: "/page:num/"
 owner:
-    email: ichihara.rifa@gmail.com
+    email: theme.email@moderntld.com
     facebook:
         show: false
         name: "Ichihara Rifa"
