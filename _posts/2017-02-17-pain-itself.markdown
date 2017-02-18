@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Pain itself"
-date: 2015-10-10 00:49:37
-categories: jekyll
+date: 2017-02-17 00:01:00
+categories:
+ - Lorem
+ - Ipsum
+ - Jekyll
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Immo videri fortasse. Quid iudicant sensus? Duo Reges: constructio interrete. A quibus propter discendi cupiditatem videmus ultimas terras esse peragratas. Non est ista, inquam, Piso, magna dissensio.
-
 
 Facile est hoc cernere in primis puerorum aetatulis. Longum est enim ad omnia respondere, quae a te dicta sunt. Aliud igitur esse censet gaudere, aliud non dolere. Nam si amitti vita beata potest, beata esse non potest. Facillimum id quidem est, inquam.
 
