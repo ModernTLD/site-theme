@@ -8,6 +8,11 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 paginate: 5
 paginate_path: "/page:num/"
+color:
+    main: "orange"
+    navbar: "orange"
+    chips: "green"
+    footer: "blue"
 owner:
     email: theme.email@moderntld.com
     facebook:

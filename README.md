@@ -13,5 +13,5 @@ Simply clone or fork this repo for a full Jekyll installation. Configure your op
 
 ### Features
 * [Materialize CSS](http://http://materializecss.com/)
-* Related posts box
 * Disqus comment integration
+* Dynamic theming
