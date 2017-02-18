@@ -1,16 +1,17 @@
-# Jekyll-Materialize
-Jekyll powered blog with Google materialize css by materializecss.com
+# ModernTLD Theme
+A theme for Jekyll 3 based on [Materialize CSS](http://materializecss.com/) and [jekyll-materialize](https://github.com/codeharuka/jekyll-materialize), improved for usability and usage across multiple sites in a group. Created specifically for our sites at [ModernTLD](https://github.com/ModernTLD).
 
 ### Demo
-https://codeharuka.github.io/jekyll-materialize/
+https://moderntld.github.io/site-theme/
+
+### Live Sites
+https://www.moderntld.com/
+https://blog.moderntld.com/
 
 ### Usage
-[Jekyll](http://http://jekyllrb.com/)
-
-[Materializecss](http://materializecss.com/)
+Simply clone or fork this repo for a full Jekyll installation. Configure your options at [_config.yml](/_config.yml) and [write posts](https://jekyllrb.com/docs/posts/) in the [_posts](/_posts) directory with simple GitHub Flavored Markdown (other formats available as [Jekyll plugins](https://jekyllrb.com/docs/plugins/#converters-1))
 
 ### Features
-* [Materializecss](http://http://materializecss.com/)
-* Icons with [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
-* Related posts
-* Disqus comment integrated
+* [Materialize CSS](http://http://materializecss.com/)
+* Related posts box
+* Disqus comment integration
