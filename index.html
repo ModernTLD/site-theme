@@ -16,7 +16,7 @@ layout: default
                 <div class="col s12">
                     <div class="list-article">
                         <h4 class="orange-text thin">{{ post.title }}</h4>
-                        <p class="grey-text text-darken-1 light">Published at {{ post.date | date: "%B %-d, %Y" }}.</p>
+                        <p class="grey-text text-darken-1 light">Published on {{ post.date | date: "%B %-d, %Y" }}.</p>
                         <article class="grey-text text-darken-2 post-content on-index light">
                                 {{ post.excerpt | strip_html }}. .
                         </article>
